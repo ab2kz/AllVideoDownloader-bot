@@ -82,7 +82,7 @@ AllVideoDownloader is a powerful Telegram bot built to fetch and deliver videos 
 
 ## 🙌 Credits
 
-Built by [Your Name or Handle]  
+Built by [Patrick Bekongncho Atemnkeng]  
 Powered by [python-telegram-bot](https://github.com/python-telegram-bot/python-telegram-bot) + [yt-dlp](https://github.com/yt-dlp/yt-dlp)
 
 ---
