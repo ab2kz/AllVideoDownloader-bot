@@ -1,4 +1,7 @@
 # 🎥 AllVideoDownloader – Telegram Bot
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/73dc4d46-9293-43fb-9d85-11ec0d7191c1" alt="AllVideoDownloader Logo" width="200"/>
+</p>
 
 Download any video from any platform — fast, multilingual, and user-friendly.
 
